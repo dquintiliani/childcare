@@ -1,3 +1,7 @@
 rich
 requests
 python-dotenv
+streamlit
+pandas
+folium
+streamlit-folium
